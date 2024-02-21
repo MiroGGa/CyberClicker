@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CyberClick</string>
+    <string name="btn_map">Map</string>
+    <string name="btn_equipment">Equipment</string>
+    <string name="btn_shop">Shop</string>
+    <string name="btn_map_back">Back</string>
+</resources>
